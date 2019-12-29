@@ -1,2 +1,3 @@
-# reactive-spring-book-examples
-Java eamples from the book Hands-On Reactive Programming in Spring 5
+# Hands-On Reactive Programming in Spring 5
+
+This repository contains the examples from the above mentioned book.
